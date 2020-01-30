@@ -1,5 +1,5 @@
 # Estudo avançado de Git
 
-![./logo_git_diego.png](Repositório do Diego)
+![Repositório do Diego](logo_git_diego.png)
 
 Este repositório serve de exemplo para o curso de Git e Github
