@@ -2,3 +2,5 @@ comandos git, estudos
 
 
 git merge <branch que vc quer juntar> // mescla a branch
+
+git checkout -b <branch> //cria branch
