@@ -1,1 +1,4 @@
 comandos git, estudos
+
+
+git merge <branch que vc quer juntar> // mescla a branch
